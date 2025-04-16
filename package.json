@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "MySQL backup utility with S3 upload capability",
   "main": "dist/index.js",
+  "author": "Johnny Hoang",
+  "license": "MIT",
   "scripts": {
     "build": "tsc",
     "start": "pm2 start dist/index.js",
